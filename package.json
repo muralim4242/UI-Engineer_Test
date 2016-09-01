@@ -1,0 +1,33 @@
+{
+  "name": "UI-Engineet_Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-bootstrap": "^2.1.3",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-loader": "^2.0.0-beta.6",
+    "bootstrap-sass": "^3.3.7",
+    "css-loader": "^0.24.0",
+    "file-loader": "^0.9.0",
+    "jquery": "^3.1.0",
+    "node-sass": "^3.8.0",
+    "resolve-url-loader": "^1.6.0",
+    "sass-loader": "^4.0.0",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
